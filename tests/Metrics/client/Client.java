@@ -1,6 +1,6 @@
-package client;
+package Metrics.client;
 
-import provider.*;
+import Metrics.provider.*;
 
 public class Client {
     private Client() {

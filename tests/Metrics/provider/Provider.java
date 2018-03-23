@@ -1,4 +1,4 @@
-package provider;
+package Metrics.provider;
 
 public class Provider {
     private Provider() {

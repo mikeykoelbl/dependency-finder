@@ -1,3 +1,3 @@
-package onewordpackagename;
+package Metrics.onewordpackagename;
 
 public class Onewordclassname {}

@@ -1,3 +1,3 @@
-package tla;
+package Metrics.tla;
 
 public class ClassNameWithTLAInTheMiddle {}

@@ -1,3 +1,3 @@
-package twowords.packagename;
+package Metrics.twowords.packagename;
 
 public class TwowordsClassname {}

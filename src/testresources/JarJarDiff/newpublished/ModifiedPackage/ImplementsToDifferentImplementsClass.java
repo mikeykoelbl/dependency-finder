@@ -1,0 +1,3 @@
+package JarJarDiff.newpublished.ModifiedPackage;
+
+public class ImplementsToDifferentImplementsClass implements UnmodifiedPackage.AnotherInterface {}

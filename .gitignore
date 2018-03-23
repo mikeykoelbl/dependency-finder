@@ -94,10 +94,14 @@ docs/Developer.html
 docs/Manual.html
 docs/Tools.html
 lib/DependencyFinder.jar
-
+build
+dependency-finder.i*
+.idea
+.gradle
 build.example.xml
 df.xml
 docs/api
+out
 fit/tests/files/css
 fit/tests/files/images/collapsableClosed.gif
 fit/tests/files/images/collapsableOpen.gif
